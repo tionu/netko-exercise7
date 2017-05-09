@@ -127,7 +127,7 @@ public class VigStatsPanel extends Panel {
 	public boolean keyDown(Event paramEvent, int paramInt) {
 		int j;
 		if ((paramInt >= 65) && (paramInt <= 90)) {
-			j = paramInt - 65 - 4;
+			j = paramInt - 65 - 4; // -4 ggf herausnehmen
 			if (j < 0)
 				j += 26;
 			editKey(this.position - 1, this.ALPHA.substring(j, j + 1));
