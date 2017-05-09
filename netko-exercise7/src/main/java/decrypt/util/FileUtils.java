@@ -1,4 +1,4 @@
-package decrypt;
+package decrypt.util;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -6,7 +6,9 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class FileUtils {
+
 	public static String readFile(String filePath) {
+
 		StringBuilder stringBuilder = null;
 		try (BufferedReader cryptoFile = new BufferedReader(new FileReader(filePath))) {
 			stringBuilder = new StringBuilder();
@@ -21,6 +23,7 @@ public class FileUtils {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+
 		return stringBuilder.toString();
 	}
 }
