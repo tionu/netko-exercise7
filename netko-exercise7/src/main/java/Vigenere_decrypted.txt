@@ -1,0 +1,6 @@
+Schlüssel: vigenere
+
+Text:
+wieder aus wikipedia polyalphabetische ersetzungschiffren bezeichnen in der kryptographie formen der textverschluesselung bei der einem buchstaben bzw zeichen jeweils ein anderer buchstabe bzw zeichen zugeordnet wird im gegensatz zur monoalphabetischen substitution werden fuer die zeichen des klartextes mehrere geheimtextalphabete verwendet
+die im sechzehnten jahrhundert entstandene vigenere verschluesselung nach blaise de vigenere galt lange als sicherer chiffrieralgorithmus ein schluesselwort bestimmt wie viele und welche alphabete genutzt werden die alphabete leiten sich aus der caesar substitution ab
+dem britischen mathematiker charles babbage gelang um das jahr achtzehnhundertvierundfuenfzig erstmals die entzifferung einer vigenere chiffre diese entdeckung wurde jedoch damals nicht oeffentlich bekannt gemacht der preussische offizier friedrich kasiski veroeffentlichte im jahr achtzehnhundertdreiundsechzig seine loesung und ging damit in die geschichte ein
